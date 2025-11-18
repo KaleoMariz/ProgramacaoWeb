@@ -28,8 +28,10 @@
     <a href="conversao_do_real.php"><h1>Clique aqui para converter o real para outras moedas</h1></a>
     <a href="conversao_do_dolar.php"><h1>Clique aqui pra converter o dólar para outras moedas</h1></a>
     <a href="conversao_do_ouro.php"><h1>Clique aqui para converter o ouro para outras moedas</h1></a><br><br><br>
+</section>
 
-    <form>
+<section>
+    <form action="agradecimento.php" method="get">
     <label><h2> Se queres sugestões para melhorar nossa página, por favor escreva aqui abaixo e envie sua sugestão.<h2></label>
     <textarea name="sugestao"> Escreva aqui sua sugestão.</textarea><br>
     <input type="submit" value ="Clique aqui para enviar sua sugestão">
