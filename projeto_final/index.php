@@ -20,8 +20,8 @@
 <body>
 <header>
 <img src="ilustracoes/moedas_2.jpg" align="left">
-<img src="moedas.jpg" align="right" width="340px">
-<img src="currencies.webp"> 
+<img src="ilustracoes/moedas.jpg" align="right" width="340px">
+<img src="ilustracoes/currencies.webp"> 
 <h1 text-align> Bem-vindo ao mundo do dinheiro! </h1><br><br>
 
 
@@ -29,10 +29,10 @@
 
 <section> 
 <h2>Como surgiu o dinheiro?</h2>
-<img src="barter_3.jpg" width="320px">
-<img src="barter.jpg" width="350px">
-<img src="barter_2.webp" width="330px">
-<p style="text-align: left"> Nas primeiras civilizações as pessoas para obter bens de consumo praticavam o <b>'escambo'</b>.  
+<img src="ilustracoes/barter_3.jpg" width="320px">
+<img src="ilustracoes/barter.jpg" width="350px">
+<img src="ilustracoes/barter_2.webp" width="330px">
+<p style="ilustracoes/text-align: left"> Nas primeiras civilizações as pessoas para obter bens de consumo praticavam o <b>'escambo'</b>.  
     Exemplo: 5 sacas de trigo poderiam ser trocados por uma cabra leiteira.  
     Esse sistema não era muito prático, pois alguns bens eram valiosos para algumas pessoas, mas para outras não.  
     Então houve a necessidade de 'algo' que fosse de alta demanda para todos na sociedade.  
@@ -53,9 +53,9 @@
 <br>
 <section>
 <h2> Como surgiu o papel moeda? </h2>
-<img src="paper_money.jpg" width="330px">
-<img src="paper_money_2.jpg" width="380px">
-<p style="text-align: left">Por séculos, os metais como o ouro e a prata já foram estabelecidos pela maioria das civilizações como metais de alto valor.
+<img src="ilustracoes/paper_money.jpg" width="330px">
+<img src="ilustracoes/paper_money_2.jpg" width="380px">
+<p style="ilustracoes/text-align: left">Por séculos, os metais como o ouro e a prata já foram estabelecidos pela maioria das civilizações como metais de alto valor.
     Em quase todos os povos do mundo com um saco de ouro ou prata você consegue trocar por quaisquer bens.  Mesmo que a pessoa não goste de ouro, 
     ela vai querer tê-lo porque sabe que pode conseguir trocar por algo que ela queira (um cavalo, uma vaca, uma vestimenta, um utensílio e etc.).  
     Mas havia um problema!  Onde guardá-lo? Se você guarda seu ouro em casa, um ladrão pode entrar e pegar, 
@@ -81,8 +81,8 @@
 <section> 
 
  <h2> O dinheiro de papel passou a ser independente do ouro </h2>
- <img src="dinheiro_vazio.jpg" width= "350px"> 
- <p style="text-align: left"> Por algum tempo, os bancos só imprimiam notas de papel na quantidade de valor 
+ <img src="ilustracoes/dinheiro_vazio.jpg" width= "350px"> 
+ <p style="ilustracoes/text-align: left"> Por algum tempo, os bancos só imprimiam notas de papel na quantidade de valor 
     em ouro que havia disponível em seus cofres.  
     A população passou a dar valor ao papel moeda e raramente buscavam seu ouro nos depósitos bancários.  
     Como havia uma alta demanda para que os bancos emprestassem dinheiro para as pessoas abrirem novos negócios, 
