@@ -31,7 +31,7 @@
 </section>
 
 <section>
-    <form action="agradecimento.php" method="get">
+    <form action="agradecimento.php" method="post">
     <label><h2> Se queres sugestões para melhorar nossa página, por favor escreva aqui abaixo e envie sua sugestão.<h2></label>
     <textarea name="sugestao"> Escreva aqui sua sugestão.</textarea><br>
     <input type="submit" value ="Clique aqui para enviar sua sugestão">
@@ -45,3 +45,4 @@
 </section>
 </body>
 </html>
+
