@@ -5,8 +5,13 @@
 </head>
 <body>
 <section style="text-align: center">
-<h1>Agradecemos a sua sugestão!</h1>
 
+ <script type = "text/javascript">
+        alert ("Quer mesmo enviar esta sugestão?") /*isso mostra um pop-up com o nome "hello world"*/
+        document.write ("<h1>Agradecemos a sua sugestão!</h1>");/*esse é o print*/
+
+    </script>
+    
 <?php
 
 $servidor = "localhost";
@@ -62,3 +67,4 @@ mysqli_close($conexao);
 
 <body>
 </html>
+
