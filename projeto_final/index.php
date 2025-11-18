@@ -33,20 +33,20 @@
 <img src="barter.jpg" width="350px">
 <img src="barter_2.webp" width="330px">
 <p style="text-align: left"> Nas primeiras civilizações as pessoas para obter bens de consumo praticavam o <b>'escambo'</b>.  
-    Exemplo: 5 sacas de trigo poderia ser trocado por uma cabra leiteira.  
+    Exemplo: 5 sacas de trigo poderiam ser trocados por uma cabra leiteira.  
     Esse sistema não era muito prático, pois alguns bens eram valiosos para algumas pessoas, mas para outras não.  
     Então houve a necessidade de 'algo' que fosse de alta demanda para todos na sociedade.  
     Este algo seria geralmente um bem raro de grande valor. Um bem que todas as pessoas estariam dispostas a trocar 
-    seus bens para obtê-lo porque sabiam que tal bem poderia ser usado para adquirir qualquer outra coisa.  
+    seus próprios bens para obtê-lo, porque sabiam que tal bem poderia ser usado para adquirir qualquer outra coisa.  
     Exemplo: Um bode só pode adquirir outros bens se a outra pessoa estiver disposta a ter um bode.  
-    Mas há bens que as pessoas estão dispostas a dar o que for para tê-lo.  
-    Este bem em alta demanda é o que passou a ser o 'dinheiro' ou moeda corrente.
+    Mas há bens que as pessoas estão dispostas a dar o que for para tê-los.  
+    Estes bens em alta demanda é o que passou a ser o 'dinheiro' ou moeda corrente.
     Cada sociedade elegeu um bem (ou bens) que seria usado como moeda corrente.  
     Geralmente era pedaços de metal raro e resistente que é dificil de oxidar. 
     Cobre já foi usado como dinheiro porque ele era valioso para a fabricação de bronze. 
     Mas os metais que mais deram certo como dinheiro foram o ouro e a prata. A prata é dificil de oxidar, e o ouro não oxida de forma alguma.
-    Até hoje tais metais são valiosos.  Mas outros bens raros valiosos e raros já foram usados como dinheiro.  
-    Algumas pimentas raras já foram usadas como dinheiro porque tanta gente queria tê-las que todo bem podia ser adquirido com pimenta.</p>
+    Até hoje tais metais são valiosos.  Mas outros bens valiosos e raros já foram usados como dinheiro.  
+    Algumas pimentas raras já foram usadas como dinheiro porque tanta gente queria tê-las que qualquer bem podia ser adquirido com pimenta.</p>
 
 </section>
 <br>
@@ -55,9 +55,9 @@
 <h2> Como surgiu o papel moeda? </h2>
 <img src="paper_money.jpg" width="330px">
 <img src="paper_money_2.jpg" width="380px">
-<p style="text-align: left">Por séculos, o metais como o ouro e a prata já foram estabelecidos pela maioria das civilizações como metais de alto valor.
+<p style="text-align: left">Por séculos, os metais como o ouro e a prata já foram estabelecidos pela maioria das civilizações como metais de alto valor.
     Em quase todos os povos do mundo com um saco de ouro ou prata você consegue trocar por quaisquer bens.  Mesmo que a pessoa não goste de ouro, 
-    ela vai querer tê-lo por que sabe que pode conseguir trocar por algo que ela queira (um cavalo, uma vaca, uma vestimenta, um utensílio e etc.).  
+    ela vai querer tê-lo porque sabe que pode conseguir trocar por algo que ela queira (um cavalo, uma vaca, uma vestimenta, um utensílio e etc.).  
     Mas havia um problema!  Onde guardá-lo? Se você guarda seu ouro em casa, um ladrão pode entrar e pegar, 
     e assim você perdeu o fruto do seu trabalho árduo.  Alguém teve uma ideia genial de criar algo chamado <b>'banco'</b>.  
     A ideia do banco é de uma instituição onde você pode guardar seu ouro, 
@@ -71,8 +71,8 @@
     Era como se ele dissesse <i>"meu cliente, eu só tenho barras de ouro pesadas.  Não tenho como te dar 500 gramas. Só posso dar no mínimo uma barra de ouro de 5 quilos.  Toma esta nota assinada por mim que ela vale 500 gramas. 
     Com 10 destas notas você pode vir aqui e trocar pelo ouro se você desejar. Mas se você quiser o ouro eu derreto uma barra para te dar 500 gramas.  Mas vai demorar para derreter a barra." </i>
     Com o tempo os clientes passaram a achar mais conveniente ter nota promissórias de papel do que ouro.  
-    Eles só trocavam por ouro se tivessem que viajar para outras regiões onde as notas não eram reconhecidas.  
-    assim surgiu o dinheiro de papel. 
+    Eles só trocavam por ouro se tivessem que viajar para outras regiões onde as notas promissórias do banco não eram reconhecidas.  
+   Assim surgiu o dinheiro de papel. </p>
 
 </section>
 <br>
@@ -84,7 +84,7 @@
  <img src="dinheiro_vazio.jpg" width= "350px"> 
  <p style="text-align: left"> Por algum tempo, os bancos só imprimiam notas de papel na quantidade de valor 
     em ouro que havia disponível em seus cofres.  
-    A população passou a dar valor ao papel moeda e raramente buscavam o ouro nos depósitos.  
+    A população passou a dar valor ao papel moeda e raramente buscavam seu ouro nos depósitos bancários.  
     Como havia uma alta demanda para que os bancos emprestassem dinheiro para as pessoas abrirem novos negócios, 
     bancos passaram a imprimir mais dinheiro de papel do que o que eles de fato tinham em ouro nos seus cofres.  
     Isso aconteceu no século XVII (1600's).  Os reis dos países permitiram isso porque assim poderia estimular mais a economia.  
@@ -96,10 +96,10 @@
     e geralmente os bancos conseguiam fornecer o ouro que seus clientes pediam caso quisessem trocar o papel moeda por ouro.
     <br>
     Com o tempo, boa parte dos países passaram a não usar mais lastro em ouro para imprimir papel moeda de seus bancos.  Ou seja, não precisa haver um depósito mínimo de ouro para imprimir papel moeda.  
-    O papel moeda não pode mais ser convertido por ouro.  Ele tem valor por si próprio simplesmente porque a lei do país diz que sim.  
-    O brasil desde 1933 usa papel moeda sem nenhum lastro em ouro ou prata. Existe uma grande desvantagem quando isso acontece.  
+    O papel moeda não pôde mais ser convertido por ouro.  Ele tem valor por si próprio simplesmente porque a lei do país diz que sim.  
+    O Brasil desde 1933 usa papel moeda sem nenhum lastro em ouro ou prata. Existe uma grande desvantagem quando isso acontece.  
     Muitas vezes o governo pede para os bancos imprimirem mais dinheiro do que devia para poder estimular a economia.  E assim com muito papel disponível ele perde parte do seu valor. 
-    Assim, um sauduíche que custava 1 real, com o tempo passou a custar 2 reais, no outro ano 3 reais.  
+    Assim, um sauduíche que custava 1 real, com o tempo passou a custar 2 reais, no outro ano 3 reais.  Isso é a definição de <i>inflação</i>  
     O sanduíche continua sendo o mesmo. Só ficou mais caro porque há mais papel moeda disponível, e portanto o real que comprava um sanduíche perdeu o valor porque o governo imprimiu dinheiro demais.
     Mas a curto prazo imprimir dinheiro faz a economia crescer (pelo menos por um tempo).  Por isso governos promovem inflação.</p>
     <h3> O sistema Breton Woods. O padrão "dólar" </h3>
@@ -117,4 +117,5 @@
 
 </section>
 </body>
+
 </html>
