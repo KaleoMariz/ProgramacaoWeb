@@ -6,32 +6,32 @@ $conversao_ouro =$_GET['conversao_ouro'];
 switch ($conversao_ouro){
     case 1: 
         $valor_do_ouro = $ouro * 130; 
-        echo "$ouro gramas de ouro equivale a $valor_do_ouro dólares.";
+        echo "<h1>$ouro gramas de ouro equivale a $valor_do_ouro dólares.</h1>";
         break;
     
     case 2:
         $valor_do_ouro = $ouro * 98; 
-        echo "$ouro gramas de ouro equivale a $valor_do_ouro libras.";
+        echo "<h1>$ouro gramas de ouro equivale a $valor_do_ouro libras.</h1>";
         break;
     
     case 3: 
         $valor_do_ouro = $ouro * 113; 
-        echo "$ouro gramas de ouro equivale a $valor_do_ouro em euros.";
+        echo "<h1>$ouro gramas de ouro equivale a $valor_do_ouro em euros.</h1>";
         break; 
     
     case 4:
         $valor_do_ouro = $ouro * 928;
-        echo "$ouro gramas de ouro equivale a $valor_do_ouro em yuanes chineses.";
+        echo "<h1>$ouro gramas de ouro equivale a $valor_do_ouro em yuanes chineses.</h1>";
         break;
 
     case 5: 
         $valor_do_ouro = $ouro * 21.000;
-        echo "$ouro gramas de ouro equivale a $valor_do_ouro em yenes japoneses.";
+        echo "<h1>$ouro gramas de ouro equivale a $valor_do_ouro em yenes japoneses.</h1>";
         break;
     
     default:
         $valor_do_ouro = $ouro * 700;
-        echo "$ouro gramas de ouro equivale a $valor_do_ouro em reais brasileiro";
+        echo "<h1>$ouro gramas de ouro equivale a $valor_do_ouro em reais brasileiro </h1>";
         break;
 }
 ?>
