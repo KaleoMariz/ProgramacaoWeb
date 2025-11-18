@@ -26,9 +26,10 @@
 
 <section>
     <a href="conversao_do_real.php"><h1>Clique aqui para converter o real para outras moedas</h1></a>
-    <a href="conversao_do_dolar.php"><h1>Clique aqui pra converer o dólar para outras moedas</h1></a>
+    <a href="conversao_do_dolar.php"><h1>Clique aqui pra converter o dólar para outras moedas</h1></a>
     <a href="conversao_do_ouro.php"><h1>Clique aqui para converter o ouro para outras moedas</h1></a><br>
     <a href="index.php"><h2> Voltar à página principal.</h2></a>
 </section>
 </body>
+
 </html>
